@@ -1,0 +1,14 @@
+body{
+margin: 0;
+padding: 0;
+height: 100vh;
+width: 100vw;
+background: linear-gradient(72deg, #d9e710 1%, #182cdf 99%)
+
+}
+.conten{
+height: 520px;
+width: 935px;
+border-radius: 20px;
+overflow: hidden;
+}
